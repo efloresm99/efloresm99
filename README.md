@@ -3,9 +3,6 @@
 
 ### A bit of me: I'm a Computer Engineer👨🏽‍💻, AvGeek🧑🏽‍✈️ and a Football fan⚽!
 
-- 🧑🏽‍💻 I'm currently learning Laravel (And I have a lot of other cool things to learn)  
-- 🎯 I’m looking to learn new technologies, collaborate with more people, and have fun.
-- 🥅 2021/2022 Goals: Create more personal projects
 
 ### Connect with me:
 
