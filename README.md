@@ -3,6 +3,15 @@
 
 ### A bit of me: I'm a Computer Engineer👨🏽‍💻, AvGeek🧑🏽‍✈️ and a Football fan⚽!
 
+I am an IT Engineer and Backend Developer with a strong passion for the world of programming and the logic behind every line of code. Besides technology, in love with aviation and with a great enthusiasm for soccer. Always thirsty for knowledge and fascinated by learning interesting facts from various disciplines.
+
+With outstanding experience in the design and development of Restful APIs, specializing in the use of technologies such as NodeJS and NestJS, in addition to PostgreSQL; and others. I have had the opportunity to work on challenging projects where my problem solving skills have been key to success.
+
+I pride myself on my academic dedication and commitment to excellence, which led me to graduate Summa Cum Laude in my undergraduate career. Now, I am excited to continue to grow professionally, face new challenges and make my mark in the development of innovative solutions.
+
+I am always willing to collaborate and share knowledge with other technology enthusiasts. Always looking for new challenges to keep evolving and expanding my skills as a backend developer.
+
+Check out my work, and contact me if you have any questions.
 
 ### Connect with me:
 
