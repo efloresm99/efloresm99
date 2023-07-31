@@ -62,6 +62,8 @@ Check out my work, and contact me if you have any questions.
 [html5]: https://dev.w3.org/html5/html-author/
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[typescript]:https://www.typescriptlang.org/
+[postgresq]: https://www.postgresql.org/
 [php]: https://www.php.net/
 [nodejs]: https://nodejs.org/en/
 [mysql]: https://www.mysql.com/
